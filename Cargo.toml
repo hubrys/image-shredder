@@ -1,0 +1,8 @@
+[package]
+name = "image-shredder"
+version = "0.1.0"
+authors = ["Zachary Smith <zsmith0@gmail.com>"]
+
+[dependencies]
+
+raster = "0.2.0"
